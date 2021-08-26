@@ -23,10 +23,38 @@
   
   ex1. 경찰서/치안 센터의 유무  
     
-  <img src="https://github.com/skmwit/WIC/blob/main/image/police.png" width="600" height="400">  
+  <img src="https://github.com/skmwit/WIC/blob/main/image/police.png" width="600" height="450">  
   
   ex2. 상권 활성화 지수  
     
-  <img src="https://github.com/skmwit/WIC/blob/main/image/store.png" width="600" height="400">  
+  <img src="https://github.com/skmwit/WIC/blob/main/image/store.png" width="600" height="450">  
+  
+  ex3. 유동 인구 (deprecated)  
+  
+  <img src="https://github.com/skmwit/WIC/blob/main/image/floatingPeople.png" width="600" height="450">  
+  
+  
+## :computer: 웹 템플릿 및 결과  
+  <a href="https://github.com/skmwit/WIC/blob/main/ppt/Hermap.PDF">발표자료</a>
+  
+  <a href="https://github.com/skmwit/WIC/tree/main/map/templates/map">Web FE 코드 확인하기</a>
+  
+  - 초기 화면  
+  <img src="https://github.com/skmwit/WIC/blob/main/image/hermap_main.png" width="600" height="450">  
+    
+  - 종합 위험지수 지도 보기  
+  <img src="https://github.com/skmwit/WIC/blob/main/image/totalscore.png" width="900" height="400">  
+    
+  <img src="https://github.com/skmwit/WIC/blob/main/image/totalscore_zoom.png" width="600" height="400">
+    
+  - 유동 인구수 반영 지도 보기 (8pm 이후)  
+  <img src="https://github.com/skmwit/WIC/blob/main/image/fp.png" width="600" height="450">  
+    
+  <img src="https://github.com/skmwit/WIC/blob/main/image/fp2.png" width="900" height="400">  
+    
+  - 골목길 별 상권 활성화도 반영 지도 보기  
+  <img src="https://github.com/skmwit/WIC/blob/main/image/store_map.png" width="700" height="400">  
+    
+  <img src="https://github.com/skmwit/WIC/blob/main/image/store_map_zoom.png" width="500" height="400">
     
     
